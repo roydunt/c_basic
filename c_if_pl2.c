@@ -7,6 +7,7 @@
 //  -71~80  : C
 //  -61~70  : D
 //  -~60    : F
+
 int main(void) {
     int score;
     char grade;
