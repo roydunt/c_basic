@@ -14,7 +14,7 @@
 
 // 문자 ('')를 사용하는 경우
 // + 키보드 제어를 할 때 사용
-int man(void)
+int main(void)
 {
     /* code */
     printf("%c\n", 'A');
