@@ -2,7 +2,7 @@
 
 int main(void) {
     print_line();
-    printf("ÇĞ¹ø    ÀÌ¸§    Àü°ø    ÇĞÁ¡\n");
+    printf("í•™ë²ˆ    ì´ë¦„    ì „ê³µ    í•™ì \n");
     print_line();
 }
 
